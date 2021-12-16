@@ -2,13 +2,11 @@
 
 My name is Cole Howson and I am a Data Analyst based in Toronto Ontario.
 
-As a recent graduate of Juno College, I use my knowledge of SQL, Tableau, and Python,
-
-along with creativity and resourceful data analytic skills to extract actionable insights. 
+As a recent graduate of Juno College, I use my knowledge of SQL, Tableau, and Python, along with creativity and resourceful data analytic skills to extract actionable insights. 
 
 I am very passionate about Hockey and Chess, and also enjoy composing, mixing and releasing original music.
 
-Before my journey in Data Analytics, I was the store manager of one of the top butcher shops in Toronto(Sanagan’s Meat Locker Gerrard) where I developed not only strong leadership skills but learned what it takes to lead a successful team. 
+Before my journey in Data Analytics, I was the store manager of one of the top butcher shops in Toronto(Sanagan’s Meat Locker Gerrard) where I learned what it takes to lead a successful team. 
  
 If I am not digging through data sets, you can find me in the kitchen trying a new recipe or walking around Toronto with my Boston Terrier, Pepper. 
 
