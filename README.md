@@ -1,4 +1,4 @@
-### Welcome To my Git Hub! 
+### Welcome to my GitHub! 
 
 My name is Cole Howson and I am a Data Analyst based in Toronto Ontario.
 
