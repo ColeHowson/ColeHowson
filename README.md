@@ -2,7 +2,7 @@
 
 My name is Cole Howson and I am a Data Analyst based in Toronto Ontario.
 
-As a recent graduate of Juno College, I use my knowledge of SQL, Tableau, and Python, along with creativity and resourceful data analytic skills to extract actionable insights. 
+As a Data Analyst, I use my knowledge of SQL, Tableau, and Python, along with creativity and resourceful analytical skills to extract actionable insights. 
 
 I am very passionate about Hockey and Chess, and also enjoy composing, mixing and releasing original music.
 
